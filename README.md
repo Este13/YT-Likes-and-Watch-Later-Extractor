@@ -1,1 +1,1 @@
-# YT-Likes-and-Watch-Later-Extractor
+# YT-Likes-and-Watch-Later-Playlist-Extractor
